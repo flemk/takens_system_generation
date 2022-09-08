@@ -1,0 +1,22 @@
+Records are labelled either as b***, m*** or p*** where *** varies from 001 to 020 and identifies the subject under measurement. Here we provide information on each subject:
+
+Subject 001: 30 years Caucasian male, non-smoker, recent coffee intake, sedentary lifestyle
+Subject 002: 28 years Caucasian female, non-smoker, recent coffee intake, healthy lifestyle
+Subject 003: 25 years Caucasian female, non-smoker, recent coffee intake, sedentary lifestyle
+Subject 004: 23 years Caucasian male, non-smoker, recent coffee intake, healthy lifestyle
+Subject 005: 22 years Caucasian female, non-smoker, no coffee intake, sedentary lifestyle
+Subject 006: 23 years Caucasian male, non-smoker, recent coffee intake, healthy lifestyle 
+Subject 007: 30 years Caucasian male, non-smoker, no coffee intake, sedentary lifestyle
+Subject 008: 19 years Caucasian male, non-smoker, no coffee intake, sedentary lifestyle
+Subject 009: 24 years Caucasian male, non-smoker, no coffee intake, healthy lifestyle
+Subject 010: 26 years Caucasian male, non-smoker,  no coffee intake, healthy lifestyle
+Subject 011: 22 years Caucasian female, non-smoker, recent coffee intake, healthy lifestyle
+Subject 012: 20 years Caucasian male, non-smoker, no coffee intake, healthy lifestyle
+Subject 013: 27 years Caucasian male, non-smoker, no coffee intake, healthy lifestyle
+Subject 014: 26 years Caucasian male, non-smoker, no coffee intake, healthy lifestyle
+Subject 015: 26 years Caucasian male, non-smoker, no coffee intake, healthy lifestyle
+Subject 016: 22 years Caucasian female, non-smoker, recent coffee intake, healthy lifestyle
+Subject 017: 22 years Caucasian female, non-smoker, no coffee intake, healthy lifestyle
+Subject 018: 21 years Caucasian male, non-smoker, no coffee intake, sedentary lifestyle
+Subject 019: 26 years Caucasian female, smoker, no coffee intake, sedentary lifestyle
+Subject 020: 26 years Caucasian female, non-smoker, recent coffee intake, sedentary lifestyle
